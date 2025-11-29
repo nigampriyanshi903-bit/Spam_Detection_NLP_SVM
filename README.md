@@ -1,4 +1,4 @@
-# 📧 Spam Detection / Email Filtering using SVM and NLP
+#  Spam Detection / Email Filtering using SVM and NLP
 
 This project focuses on building a highly accurate and reliable model to classify text messages as 'ham' (legitimate) or 'spam' using Natural Language Processing (NLP) techniques and advanced classification algorithms.
 
